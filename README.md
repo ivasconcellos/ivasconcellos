@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Eu estou atualmente trabalhando com desenvolvimento full Stack com Ruby on Rails.
+- 🔭 Eu estou atualmente trabalhando com desenvolvimento Full Stack com Ruby on Rails.
 - 🌱 Eu estou atualmente aprendendo Node.js e React.
 
 <div align="center">
